@@ -1,0 +1,8 @@
+{
+  "name": "HomeWork",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.10"
+  }
+}
